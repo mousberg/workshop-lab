@@ -1,0 +1,24 @@
+:root {
+    /* Colors */
+    --color-primary: #000000;
+    --color-accent: #D5AFFF;
+    --color-text: #333333;
+    --color-border: #D6D6D6;
+    
+    /* Spacing */
+    --spacing-sidebar: 261px;
+    --spacing-content: 60px;
+    
+    /* Breakpoints */
+    --bp-desktop: 1512px;
+    --bp-laptop: 1366px;
+    --bp-tablet: 1024px;
+    --bp-mobile: 767px;
+    
+    /* Transitions */
+    --transition-default: 0.3s ease;
+    
+    /* Layout */
+    --header-height: 80px;
+    --footer-height: 99px;
+} 

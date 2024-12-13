@@ -1,0 +1,16 @@
+/* Common navigation styles that will be reused across pages */
+.nav-links {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-nav);
+}
+
+/* Navigation variations */
+.nav-links--horizontal {
+    flex-direction: row;
+}
+
+.nav-links--footer {
+    gap: var(--spacing-small);
+} 
